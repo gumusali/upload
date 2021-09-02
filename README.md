@@ -1,4 +1,4 @@
-# class upload v1.1 (class.upload.php / upload.php is newer)
+# class upload v1.1 (v1.1 => class.upload.php, upload.php is newer)
 
 To use this class, include class.upload.php to your php file. Default upload folder is '/files/uploads'. You can change this by passing a parameter to creator method ```$upload = new upload($new_dir);```
 
